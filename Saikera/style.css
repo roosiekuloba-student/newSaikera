@@ -1,0 +1,66 @@
+* {
+	margin:  0px;
+	font-size: 25px;
+	font-family: 'Noto Serif', serif;
+}
+
+header{
+	text-align: center;
+	height: 10vh;
+	width:  100%;
+}
+
+main {
+	height: 80vh;
+	width: 100%;
+}
+
+footer{
+	height: 10vh;
+	width: 100%;
+}
+
+form {
+	text-align:  center;
+}
+
+table {
+	text-align: center;
+	width:  100%;
+	border: 1px solid black;
+}
+
+table th {
+	background-color: black;
+	color:  white;
+}
+
+button {
+	cursor: pointer;
+}
+
+a:link {
+	color:  #456456;
+}
+
+a:hover {
+	color: #7fffd4 ;
+}
+
+a:visited {
+	color: #456456 ;
+}
+
+a:active {
+	color: #456456 ;
+}
+
+.success {
+	background-color: lightgreen;
+	padding:  1em;
+}
+
+.error {
+	background-color: tomato;
+	padding: 1em;
+}
